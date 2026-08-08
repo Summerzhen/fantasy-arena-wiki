@@ -146,6 +146,11 @@ export async function getAllContent(contentType: string, language: Locale): Prom
   const contentDir = path.join(CONTENT_ROOT, language, contentType);
   const slugPaths = getSlugsFromDirectory(contentDir);
 
+  if (slugPaths.length === 0 && language !== routing.defaultLocale) {
+    const fallbackItems = await getAllContent(contentType, routing.defaultLocale);
+    return fallbackItems.map((item) => ({ ...item, locale: language }));
+  }
+
   const items = await Promise.all(
     slugPaths.map(async (segments) => {
       const slug = segments.join("/");
@@ -346,6 +351,10 @@ export function getDynamicNavigation(language: Locale = "en"): NavGroup[] {
     const bi = GROUP_ORDER.indexOf(b.slug);
     return (ai === -1 ? 999 : ai) - (bi === -1 ? 999 : bi);
   });
+
+  if (groups.length === 0 && language !== routing.defaultLocale) {
+    return getDynamicNavigation(routing.defaultLocale);
+  }
 
   return groups;
 }
