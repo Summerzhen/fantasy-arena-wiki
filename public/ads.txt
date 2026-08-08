@@ -1,0 +1,1 @@
+# Advertising authorization records are configured by the site operator.

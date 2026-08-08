@@ -1,0 +1,520 @@
+{
+  "site": {
+    "name": "Fantasy Arena",
+    "shortName": "Fantasy Arena",
+    "tagline": "Wiki cong dong Roblox do fan tao",
+    "description": "Fantasy Arena Wiki la trung tam huong dan Roblox do fan tao ve ma, lop, dua phep, dac tinh, build, boss, trieu hoi va tien trinh endless waves.",
+    "legalNotice": "Fantasy Arena Wiki is an independent fan-made website and is not affiliated with, endorsed by, or sponsored by Roblox Corporation or Personal Path. All game names, trademarks, images and related assets belong to their respective owners."
+  },
+  "nav": {
+    "codes": "Ma",
+    "guide": "Huong dan",
+    "tier": "Xep hang",
+    "classes": "Lop",
+    "wands": "Dua phep",
+    "traits": "Dac tinh",
+    "builds": "Builds",
+    "bosses": "Boss"
+  },
+  "home": {
+    "meta": {
+      "title": "Fantasy Arena Wiki - Codes, Classes, Wands & Builds",
+      "description": "Fantasy Arena Roblox wiki with active codes, class and wand guides, traits, builds, bosses, summons and beginner tips for pushing higher waves."
+    },
+    "hero": {
+      "eyebrow": "Wiki cong dong Roblox do fan tao",
+      "title": "Fantasy Arena Wiki",
+      "description": "Fantasy Arena Wiki la trung tam huong dan Roblox do fan tao ve ma, lop, dua phep, dac tinh, build, boss, trieu hoi va tien trinh endless waves.",
+      "stats": [
+        "Latest Update V1.2",
+        "Active Codes 3",
+        "New Summons 5",
+        "Game Mode Endless Waves"
+      ],
+      "primaryCta": "Start Beginner Guide",
+      "secondaryCta": "Explore Classes & Wands",
+      "tertiaryCta": "Check Active Codes",
+      "videoLabel": "Gameplay Showcase"
+    },
+    "updates": {
+      "title": "\u52a8\u6001\u66f4\u65b0",
+      "browse": "Browse All Guides",
+      "viewAll": "View All"
+    },
+    "start": {
+      "eyebrow": "Start Here",
+      "title": "Hanh trinh Fantasy Arena cua ban",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Beginner Guide",
+          "description": "Learn the core progression loop, how endless waves work, what to upgrade first, and how to survive your first Fantasy Arena runs."
+        },
+        {
+          "number": "2",
+          "title": "Classes & Wands",
+          "description": "Understand how classes and wands shape your playstyle before spending resources on stronger combinations."
+        },
+        {
+          "number": "3",
+          "title": "Codes & Rewards",
+          "description": "Redeem active codes early so Burger Points and other rewards can support your first upgrades and experiments."
+        },
+        {
+          "number": "4",
+          "title": "Boss & Combat Basics",
+          "description": "Prepare for rare bosses, Shiny Enemies, harder waves, and the combat pressure that appears as runs go deeper."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Popular Pages",
+      "title": "Trending Now",
+      "quickLinks": [
+        "Fantasy Arena Codes",
+        "Fantasy Arena Classes",
+        "Fantasy Arena Wands",
+        "Fantasy Arena Bosses"
+      ],
+      "cards": [
+        {
+          "badge": "Beginner",
+          "title": "Beginner Guide",
+          "description": "Learn waves, classes, wands, traits, and the early choices that make your first runs smoother.",
+          "href": "/beginner-guide"
+        },
+        {
+          "badge": "Updated",
+          "title": "Active Codes",
+          "description": "Check working Fantasy Arena codes and redeem rewards before new updates rotate them out.",
+          "href": "/codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Classes Guide",
+          "description": "Compare rare and Mythical classes, including new V1.2 class options and summon-focused playstyles.",
+          "href": "/classes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Wands Guide",
+          "description": "Understand wand spins, unique abilities, and how each wand can support a stronger build.",
+          "href": "/wands"
+        },
+        {
+          "badge": "Strategy",
+          "title": "Best Builds",
+          "description": "Combine classes, wands, and traits into focused setups for deeper endless-wave progression.",
+          "href": "/best-builds"
+        },
+        {
+          "badge": "New",
+          "title": "Bosses Guide",
+          "description": "Prepare for Mushroom Monarch bosses, Shiny Enemies, rare encounters, and tougher wave pressure.",
+          "href": "/bosses"
+        },
+        {
+          "badge": "Updated",
+          "title": "Tier List",
+          "description": "Compare major build options and prioritize the strongest class, wand, and trait combinations.",
+          "href": "/tier-list"
+        },
+        {
+          "badge": "Advanced",
+          "title": "Hard Mode",
+          "description": "Plan better builds and wave strategies before stepping into harder Fantasy Arena content.",
+          "href": "/hard-mode"
+        },
+        {
+          "badge": "Guide",
+          "title": "Summons Guide",
+          "description": "Learn how class summons fit into progression after the V1.2 update added five new summon options.",
+          "href": "/summons"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "What is Fantasy Arena?",
+      "paragraphs": [
+        "Fantasy Arena is a Roblox endless-wave survival RPG by Personal Path. Players enter an arena, fight increasingly powerful enemy waves, and improve their runs through classes, wands, traits, summons, and build choices.",
+        "The game focuses on replayable progression and build experimentation. V1.2 added the Mushroom Monarch Boss, Shiny Enemies, the Mythical Greed Class, and five new class summons, giving players more reasons to optimize each setup."
+      ],
+      "stats": [
+        {
+          "label": "Developer",
+          "value": "Personal Path"
+        },
+        {
+          "label": "Platform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Wave Survival RPG"
+        },
+        {
+          "label": "Game Mode",
+          "value": "Endless Waves"
+        },
+        {
+          "label": "Latest Update",
+          "value": "V1.2"
+        },
+        {
+          "label": "Active Codes",
+          "value": "3"
+        },
+        {
+          "label": "New Summons",
+          "value": "5"
+        }
+      ],
+      "cta": "Explore All Guides"
+    },
+    "explore": {
+      "title": "Fantasy Arena Homepage Modules Navigation",
+      "description": "Jump straight to the Fantasy Arena guide module you need for codes, classes, wands, builds, bosses, and harder wave progression.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Fantasy Arena Codes",
+          "description": "Check the latest Fantasy Arena codes for free in-game rewards. Codes may expire after updates, so redeem active codes as soon as possible.",
+          "href": "/codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "750Likes",
+              "detail": "Redeem for Burger Points rewards",
+              "badge": "Active"
+            },
+            {
+              "label": "Magma",
+              "detail": "Redeem for Burger Points rewards",
+              "badge": "Active"
+            },
+            {
+              "label": "HardMode",
+              "detail": "Redeem for in-game rewards",
+              "badge": "Active"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Fantasy Arena Beginner Guide",
+          "description": "Learn the core Fantasy Arena progression loop and prepare for your first runs. Understand waves, wands, classes and traits before building stronger combinations for later stages.",
+          "href": "/beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Enter the arena and survive waves of enemies that become increasingly powerful."
+            },
+            {
+              "label": "2",
+              "detail": "Spin for powerful wands that provide unique abilities for your runs."
+            },
+            {
+              "label": "3",
+              "detail": "Unlock rare and Mythical classes to expand your available playstyles."
+            },
+            {
+              "label": "4",
+              "detail": "Combine classes, wands and traits into stronger builds to push deeper into endless waves."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Fantasy Arena Tier List",
+          "description": "Compare Fantasy Arena's major progression options and understand what makes a strong setup for higher waves. Rankings should be updated as more class, wand and build data becomes available.",
+          "href": "/tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Top-performing classes, wands and combinations supported by gameplay data."
+            },
+            {
+              "label": "A",
+              "detail": "Strong options that perform well across a wide range of waves and builds."
+            },
+            {
+              "label": "B",
+              "detail": "Useful options that can perform well with the right class, wand or trait synergy."
+            },
+            {
+              "label": "C",
+              "detail": "More situational options that may require specific builds or strategies to perform effectively."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Fantasy Arena Classes",
+          "description": "Explore the class system that forms one of the foundations of Fantasy Arena builds. Players can unlock rare and Mythical classes, including the Mythical Greed class introduced in V1.2.",
+          "href": "/classes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rare",
+              "detail": "Unlock rare classes to gain new options for building stronger arena setups."
+            },
+            {
+              "label": "Mythical",
+              "detail": "Fantasy Arena includes Mythical classes as higher-rarity progression options."
+            },
+            {
+              "label": "Greed",
+              "detail": "The Mythical Greed class was introduced in V1.2 with a Money = Power theme.",
+              "badge": "New"
+            },
+            {
+              "label": "Synergy",
+              "detail": "Combine classes with wands and traits to create specialized builds for endless waves."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Fantasy Arena Wands",
+          "description": "Discover how wands shape your Fantasy Arena playstyle and build choices. Players spin for powerful wands with unique abilities and combine them with classes and traits.",
+          "href": "/wands",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Spins",
+              "detail": "Players can spin for powerful wands as part of Fantasy Arena progression."
+            },
+            {
+              "label": "Abilities",
+              "detail": "Wands provide unique abilities that can change how a run is played."
+            },
+            {
+              "label": "Classes",
+              "detail": "Pair wand abilities with compatible classes to create stronger combinations."
+            },
+            {
+              "label": "Traits",
+              "detail": "Traits add another layer of customization when creating wand-based builds."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Fantasy Arena Best Builds",
+          "description": "Build around Fantasy Arena's three major customization systems: classes, wands and traits. Strong builds focus on combining compatible abilities and bonuses to survive increasingly difficult waves.",
+          "href": "/best-builds",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Class",
+              "detail": "Choose a class that provides the foundation and playstyle for your build."
+            },
+            {
+              "label": "Wand",
+              "detail": "Pair the class with a wand whose unique abilities complement the intended strategy."
+            },
+            {
+              "label": "Traits",
+              "detail": "Use compatible traits to strengthen the class and wand combination."
+            },
+            {
+              "label": "Waves",
+              "detail": "Optimize the complete setup around surviving increasingly powerful enemies and rare encounters."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Fantasy Arena Bosses",
+          "description": "Prepare for rare bosses and special enemies that can appear during Fantasy Arena runs. V1.2 expanded these encounters with Mushroom Monarch bosses and Shiny Enemies.",
+          "href": "/bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Monarch",
+              "detail": "Mushroom Monarch bosses were introduced as part of the V1.2 update.",
+              "badge": "New"
+            },
+            {
+              "label": "Bosses",
+              "detail": "Extremely rare bosses can appear as players progress through arena waves."
+            },
+            {
+              "label": "Shiny",
+              "detail": "V1.2 introduced Shiny Enemies as another special encounter type.",
+              "badge": "New"
+            },
+            {
+              "label": "Waves",
+              "detail": "Boss encounters are part of runs where enemies become progressively more powerful."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Fantasy Arena Hard Mode",
+          "description": "Prepare for Fantasy Arena's harder content by improving your class, wand and trait combinations. Hard Mode is also referenced by the publicly reported HardMode redemption code.",
+          "href": "/hard-mode",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Build around a compatible class, wand and trait combination before attempting harder content."
+            },
+            {
+              "label": "2",
+              "detail": "Improve your ability to handle enemies that become increasingly powerful during wave progression."
+            },
+            {
+              "label": "3",
+              "detail": "Prepare for special enemies and rare boss encounters that can disrupt normal wave progression."
+            },
+            {
+              "label": "4",
+              "detail": "Use the HardMode code while it remains redeemable to claim its associated in-game reward."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Quick answers to the most common questions about Fantasy Arena.",
+      "items": [
+        {
+          "question": "What is Fantasy Arena?",
+          "answer": "Fantasy Arena is a Roblox endless-wave survival RPG by Personal Path where players fight stronger enemy waves while improving classes, wands, traits, summons, and builds."
+        },
+        {
+          "question": "What should beginners focus on first in Fantasy Arena?",
+          "answer": "Beginners should learn wave survival, test wand abilities, unlock stronger classes, and combine traits around one clear build plan before pushing deeper runs."
+        },
+        {
+          "question": "Does Fantasy Arena have active codes?",
+          "answer": "Fantasy Arena currently has codes such as 750Likes, Magma, and HardMode, which are used for Burger Points or other in-game rewards."
+        },
+        {
+          "question": "What changed in Fantasy Arena V1.2?",
+          "answer": "Fantasy Arena V1.2 added the Mushroom Monarch Boss, Shiny Enemies, the Mythical Greed Class, and five new class summons."
+        },
+        {
+          "question": "How do builds work in Fantasy Arena?",
+          "answer": "Fantasy Arena builds combine a class, wand, and traits so their bonuses and abilities support the same survival strategy for endless waves."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Ready to Master Fantasy Arena?",
+      "description": "From your first wave to Mythical classes, powerful wand combinations and rare boss encounters, use our Fantasy Arena guides to build smarter and push further.",
+      "primary": "Read the Beginner Guide",
+      "secondary": "Play Fantasy Arena on Roblox"
+    }
+  },
+  "bosses": {
+    "meta": {
+      "title": "Fantasy Arena Bosses - Magma Event and Shiny Enemies",
+      "description": "Prepare for Fantasy Arena bosses, Magma Event, Magma Shard, Obsidian Shogun, and Shiny Enemies."
+    },
+    "overviewTitle": "Fantasy Arena Bosses",
+    "overviewDescription": "Prepare for Fantasy Arena bosses and special encounters including Magma Event, Magma Shard, Obsidian Shogun, and Shiny Enemies.",
+    "body": "Bosses and special encounters create major pressure spikes during Fantasy Arena wave runs. Use these guides to plan class, wand, trait, and build choices before fighting rare enemies or update bosses.",
+    "guidesTitle": "Fantasy Arena Bosses Guides",
+    "readMore": "Read more",
+    "new": "New",
+    "popular": "Popular"
+  },
+  "shared": {
+    "wikiNavigation": "Wiki Navigation",
+    "activeCodes": "Active Codes",
+    "updated": "Updated",
+    "viewAllCodes": "View all codes",
+    "playOnRoblox": "Play on Roblox",
+    "inThisSection": "In this section",
+    "tableOfContents": "Table of Contents",
+    "nextSteps": "Next Steps",
+    "needHelp": "Need Help?",
+    "relatedReading": "Related Reading",
+    "relatedGuides": "Related Guides",
+    "readMore": "Read more",
+    "officialMedia": "Official media",
+    "home": "Home",
+    "noGuidesAvailable": "No guides available yet. Check back soon!"
+  },
+  "footer": {
+    "aboutTitle": "Fantasy Arena Wiki",
+    "about": "Fantasy Arena Wiki is an independent fan-made resource for the Roblox game Fantasy Arena by Personal Path. We cover codes, classes, wands, traits, builds, bosses, summons and progression guides. This site is not affiliated with Roblox or Personal Path.",
+    "quickLinks": "Quick Links",
+    "guides": "Guides",
+    "legal": "Legal",
+    "copyright": "2026 Fantasy Arena Wiki. Not affiliated with Roblox Corporation or Personal Path.",
+    "description": "Fantasy Arena Wiki la trung tam huong dan Roblox do fan tao ve ma, lop, dua phep, dac tinh, build, boss, trieu hoi va tien trinh endless waves.",
+    "playGame": "Play Fantasy Arena on Roblox",
+    "officialDiscord": "",
+    "officialYoutube": "",
+    "vvBuilder": "",
+    "beginnerGuide": "Beginner Guide",
+    "raceGuides": "Classes & Wands",
+    "bossGuides": "Boss Guides",
+    "buildGuide": "Build Guide",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "codes": {
+    "meta": {
+      "title": "Fantasy Arena Codes - Active Roblox Rewards",
+      "description": "Find Fantasy Arena codes, rewards, redeem steps, and update notes for Roblox players."
+    },
+    "overviewTitle": "Fantasy Arena Codes",
+    "overviewDescription": "Browse Fantasy Arena code guides covering active rewards, redeem steps, Burger Points, and update-related code notes."
+  },
+  "guide": {
+    "meta": {
+      "title": "Fantasy Arena Guide - Beginner Tips and Waves",
+      "description": "Learn Fantasy Arena basics, wave survival, burgers, tips, hard mode, and beginner progression."
+    },
+    "overviewTitle": "Fantasy Arena Guide",
+    "overviewDescription": "Start with Fantasy Arena guides for beginners, burgers, waves, tips, hard mode, and early progression decisions."
+  },
+  "tier": {
+    "meta": {
+      "title": "Fantasy Arena Tier - Best Classes and Wands",
+      "description": "Compare Fantasy Arena tier rankings for classes, wands, and top build choices."
+    },
+    "overviewTitle": "Fantasy Arena Tier",
+    "overviewDescription": "Compare Fantasy Arena tier content for best classes, best wands, class tier lists, and wand tier lists."
+  },
+  "classes": {
+    "meta": {
+      "title": "Fantasy Arena Classes - Mage, Greed and Mythical Classes",
+      "description": "Explore Fantasy Arena classes, Mage class, Greed class, Mythical classes, and class progression."
+    },
+    "overviewTitle": "Fantasy Arena Classes",
+    "overviewDescription": "Explore Fantasy Arena class guides covering Mage, Greed, Mythical classes, summons, and class-based progression."
+  },
+  "wands": {
+    "meta": {
+      "title": "Fantasy Arena Wands - Best Wands and Phoenix Wand",
+      "description": "Browse Fantasy Arena wands, Phoenix Wand, Fire Wand, best wands, and wand roll guides."
+    },
+    "overviewTitle": "Fantasy Arena Wands",
+    "overviewDescription": "Browse Fantasy Arena wand guides for best wands, Phoenix Wand, Fire Wand, rolled Phoenix Wand, and wand-focused builds."
+  },
+  "traits": {
+    "meta": {
+      "title": "Fantasy Arena Traits - Best Traits and New Traits",
+      "description": "Learn Fantasy Arena traits, best traits, new traits, and how traits support stronger builds."
+    },
+    "overviewTitle": "Fantasy Arena Traits",
+    "overviewDescription": "Learn Fantasy Arena traits, best trait choices, new traits, and how trait synergy improves classes, wands, and builds."
+  },
+  "builds": {
+    "meta": {
+      "title": "Fantasy Arena Builds - Best Builds and High Waves",
+      "description": "Plan Fantasy Arena builds for high waves, PvP, class synergy, wand choices, and trait combinations."
+    },
+    "overviewTitle": "Fantasy Arena Builds",
+    "overviewDescription": "Plan Fantasy Arena builds for best builds, high waves, PvP setups, class synergy, wand choices, and trait combinations."
+  }
+}
