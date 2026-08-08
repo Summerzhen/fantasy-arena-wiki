@@ -9,7 +9,7 @@ import { defineRouting } from "next-intl/routing";
  *   3. The matching JSON file in `src/locales/<locale>.json`.
  */
 export const routing = defineRouting({
-  locales: ["en", "ja", "pt-br", "es", "vi"],
+  locales: ["en", "pt-br", "es", "vi"],
   defaultLocale: "en",
   // Every locale is served with an explicit prefix for consistent SEO routing.
   localePrefix: "always",

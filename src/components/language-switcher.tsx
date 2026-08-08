@@ -13,7 +13,6 @@ import {
 
 const LOCALE_LABELS: Record<Locale, string> = {
   en: "English",
-  ja: "Japanese",
   "pt-br": "Portuguese",
   es: "Spanish",
   vi: "Vietnamese",
