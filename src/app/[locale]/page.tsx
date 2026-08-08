@@ -13,11 +13,15 @@ type Messages = typeof en;
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await getMessages({ locale })) as Messages;
+  const pathname = `/${locale}`;
   return {
     title: messages.home.meta.title,
     description: messages.home.meta.description,
-    alternates: { canonical: locale === "en" ? "/" : `/${locale}`, languages: { en: "/" } },
-    openGraph: { title: messages.home.meta.title, description: messages.home.meta.description, url: siteUrl, images: [`${siteUrl}/images/hero.webp`] },
+    alternates: {
+      canonical: pathname,
+      languages: Object.fromEntries(routing.locales.map((lang) => [lang, `/${lang}`])),
+    },
+    openGraph: { title: messages.home.meta.title, description: messages.home.meta.description, url: `${siteUrl}${pathname}`, images: [`${siteUrl}/images/hero.webp`] },
   };
 }
 
@@ -26,7 +30,7 @@ export default async function LocaleHomePage({ params }: { params: Promise<{ loc
   const loc = locale as Locale;
   const messages = (await getMessages({ locale })) as Messages;
   const navGroups = getDynamicNavigation(loc);
-  const webSite = { "@context": "https://schema.org", "@type": "WebSite", name: "Fantasy Arena Wiki", url: siteUrl, description: messages.home.meta.description };
+  const webSite = { "@context": "https://schema.org", "@type": "WebSite", name: "Fantasy Arena Wiki", url: `${siteUrl}/${locale}`, description: messages.home.meta.description };
 
   // 动态加载所有 content 目录下的文章
   const allArticles: ContentItem[] = [];
