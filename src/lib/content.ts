@@ -274,7 +274,7 @@ const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "codes", "guide", "tier", "classes", "wands", "traits", "builds", "bosses",
+  "codes", "tier", "classes", "wands", "builds", "traits", "bosses", "guide",
 ];
 
 /**

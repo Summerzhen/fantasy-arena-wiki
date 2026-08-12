@@ -83,7 +83,7 @@
           "badge": "Beginner",
           "title": "Beginner Guide",
           "description": "Learn waves, classes, wands, traits, and the early choices that make your first runs smoother.",
-          "href": "/beginner-guide"
+          "href": "/guide"
         },
         {
           "badge": "Updated",
@@ -107,7 +107,7 @@
           "badge": "Strategy",
           "title": "Best Builds",
           "description": "Combine classes, wands, and traits into focused setups for deeper endless-wave progression.",
-          "href": "/best-builds"
+          "href": "/builds"
         },
         {
           "badge": "New",
@@ -119,19 +119,19 @@
           "badge": "Updated",
           "title": "Tier List",
           "description": "Compare major build options and prioritize the strongest class, wand, and trait combinations.",
-          "href": "/tier-list"
+          "href": "/tier"
         },
         {
           "badge": "Advanced",
           "title": "Hard Mode",
           "description": "Plan better builds and wave strategies before stepping into harder Fantasy Arena content.",
-          "href": "/hard-mode"
+          "href": "/guide/fantasy-arena-hard-mode"
         },
         {
           "badge": "Guide",
           "title": "Summons Guide",
           "description": "Learn how class summons fit into progression after the V1.2 update added five new summon options.",
-          "href": "/summons"
+          "href": "/classes"
         }
       ]
     },
@@ -205,7 +205,7 @@
           "order": 2,
           "name": "Fantasy Arena Beginner Guide",
           "description": "Learn the core Fantasy Arena progression loop and prepare for your first runs. Understand waves, wands, classes and traits before building stronger combinations for later stages.",
-          "href": "/beginner-guide",
+          "href": "/guide",
           "displayType": "step-by-step",
           "highlights": [
             {
@@ -230,7 +230,7 @@
           "order": 3,
           "name": "Fantasy Arena Tier List",
           "description": "Compare Fantasy Arena's major progression options and understand what makes a strong setup for higher waves. Rankings should be updated as more class, wand and build data becomes available.",
-          "href": "/tier-list",
+          "href": "/tier",
           "displayType": "tier-grid",
           "highlights": [
             {
@@ -306,7 +306,7 @@
           "order": 6,
           "name": "Fantasy Arena Best Builds",
           "description": "Build around Fantasy Arena's three major customization systems: classes, wands and traits. Strong builds focus on combining compatible abilities and bonuses to survive increasingly difficult waves.",
-          "href": "/best-builds",
+          "href": "/builds",
           "displayType": "card-list",
           "highlights": [
             {
@@ -358,7 +358,7 @@
           "order": 8,
           "name": "Fantasy Arena Hard Mode",
           "description": "Prepare for Fantasy Arena's harder content by improving your class, wand and trait combinations. Hard Mode is also referenced by the publicly reported HardMode redemption code.",
-          "href": "/hard-mode",
+          "href": "/guide/fantasy-arena-hard-mode",
           "displayType": "step-by-step",
           "highlights": [
             {
