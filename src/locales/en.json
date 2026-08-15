@@ -16,7 +16,8 @@
     "wands": "Wands",
     "traits": "Traits",
     "builds": "Builds",
-    "bosses": "Bosses"
+    "bosses": "Bosses",
+    "summons": "Summons"
   },
   "home": {
     "meta": {
@@ -95,7 +96,7 @@
           "badge": "Popular",
           "title": "Classes Guide",
           "description": "Compare rare and Mythical classes, including new V1.2 class options and summon-focused playstyles.",
-          "href": "/classes"
+          "href": "/summons"
         },
         {
           "badge": "Popular",
@@ -378,6 +379,32 @@
               "detail": "Use the HardMode code while it remains redeemable to claim its associated in-game reward."
             }
           ]
+        },
+        {
+          "order": 9,
+          "name": "Fantasy Arena Summons",
+          "description": "Explore the five new class summons confirmed for V1.2. Names, effects, and unlock requirements are separated clearly between verified information and details that still need in-game confirmation.",
+          "href": "/summons",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "5",
+              "detail": "New unique class summons confirmed in V1.2.",
+              "badge": "V1.2"
+            },
+            {
+              "label": "Class",
+              "detail": "Evaluate each summon with its class rather than as an isolated item."
+            },
+            {
+              "label": "Build",
+              "detail": "Pair summons with a compatible wand and trait plan for Endless Waves."
+            },
+            {
+              "label": "Verify",
+              "detail": "Unknown names, stats, and unlock conditions are not presented as facts."
+            }
+          ]
         }
       ]
     },
@@ -426,6 +453,14 @@
     "readMore": "Read more",
     "new": "New",
     "popular": "Popular"
+  },
+  "summons": {
+    "meta": {
+      "title": "Fantasy Arena Summons Guide - Class Summons and V1.2",
+      "description": "Learn what is confirmed about Fantasy Arena class summons, the five V1.2 additions, and how summons fit into builds."
+    },
+    "overviewTitle": "Fantasy Arena Summons",
+    "overviewDescription": "Explore the Fantasy Arena summon system and the five new class summons confirmed in V1.2."
   },
   "shared": {
     "wikiNavigation": "Wiki Navigation",

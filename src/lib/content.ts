@@ -245,6 +245,7 @@ const GROUP_TITLES: Record<string, string> = {
   traits: "Traits",
   builds: "Builds",
   bosses: "Bosses",
+  summons: "Summons",
 };
 
 // 日文分组标题映射
@@ -257,6 +258,7 @@ const GROUP_TITLES_JA: Record<string, string> = {
   traits: "Traits",
   builds: "Builds",
   bosses: "Bosses",
+  summons: "Summons",
 };
 
 // locale → 分组标题映射
@@ -274,7 +276,7 @@ const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "codes", "tier", "classes", "wands", "builds", "traits", "bosses", "guide",
+  "codes", "tier", "classes", "wands", "traits", "builds", "summons", "bosses", "guide",
 ];
 
 /**

@@ -1,4 +1,4 @@
-import { BookOpen, Code2, Gem, Hammer, Swords, Sparkles, Trophy, Wand2 } from "lucide-react";
+import { BookOpen, Code2, Gem, Hammer, Swords, Sparkles, Trophy, Wand2, Zap } from "lucide-react";
 
 export const NAVIGATION_CONFIG = [
   { key: "codes", path: "/codes", icon: Code2, isContentType: true },
@@ -8,6 +8,7 @@ export const NAVIGATION_CONFIG = [
   { key: "builds", path: "/builds", icon: Hammer, isContentType: true },
   { key: "traits", path: "/traits", icon: Gem, isContentType: true },
   { key: "bosses", path: "/bosses", icon: Swords, isContentType: true },
+  { key: "summons", path: "/summons", icon: Zap, isContentType: true },
   { key: "guide", path: "/guide", icon: BookOpen, isContentType: true },
 ] as const;
 

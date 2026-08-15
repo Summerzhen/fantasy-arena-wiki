@@ -56,7 +56,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: L
   if (!item) return { title: "Not Found" };
   const pathname = `/${contentType}/${articleSlug.join("/")}`;
   const image = item.metadata.image?.startsWith("http") ? item.metadata.image : `${siteUrl}${item.metadata.image ?? "/images/hero.webp"}`;
-  return { title: `${item.metadata.title} - Fantasy Arena Wiki`, description: item.metadata.description, alternates: { canonical: `/${locale}${pathname}`, languages: languageAlternates(pathname) }, openGraph: { type: "article", title: item.metadata.title, description: item.metadata.description, url: `${siteUrl}/${locale}${pathname}`, images: [image] }, twitter: { card: "summary_large_image", images: [image] } };
+  return { title: item.metadata.title, description: item.metadata.description, alternates: { canonical: `/${locale}${pathname}`, languages: languageAlternates(pathname) }, openGraph: { type: "article", title: item.metadata.title, description: item.metadata.description, url: `${siteUrl}/${locale}${pathname}`, images: [image] }, twitter: { card: "summary_large_image", images: [image] } };
 }
 
 export default async function SlugPage({ params }: { params: Promise<{ locale: Locale; slug: string[] }> }) {
