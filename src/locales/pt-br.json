@@ -30,7 +30,7 @@
       "description": "Fantasy Arena Wiki e um hub de guias Roblox feito por fas para codigos, classes, varinhas, tracos, builds, chefes, invocacoes e progressao em ondas infinitas.",
       "stats": [
         "Latest Update V1.2",
-        "Active Codes 3",
+        "Active Codes 3+",
         "New Summons 5",
         "Game Mode Endless Waves"
       ],
@@ -89,7 +89,7 @@
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "Check working Fantasy Arena codes and redeem rewards before new updates rotate them out.",
+          "description": "Confira os códigos mais recentes de Fantasy Arena, incluindo SignUpForAdminAbuse, King e Gullible, antes dos próximos updates.",
           "href": "/codes"
         },
         {
@@ -186,19 +186,19 @@
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "750Likes",
-              "detail": "Redeem for Burger Points rewards",
-              "badge": "Active"
+              "label": "SignUpForAdminAbuse",
+              "detail": "Recompensa reportada de 100 Burgers; confirme no jogo",
+              "badge": "Novo"
             },
             {
-              "label": "Magma",
-              "detail": "Redeem for Burger Points rewards",
-              "badge": "Active"
+              "label": "King",
+              "detail": "Recompensa reportada de 100 Burgers; confirme no jogo",
+              "badge": "Novo"
             },
             {
-              "label": "HardMode",
-              "detail": "Redeem for in-game rewards",
-              "badge": "Active"
+              "label": "Gullible",
+              "detail": "Recompensa em Burgers reportada; confirme no jogo",
+              "badge": "Confira"
             }
           ]
         },
@@ -358,7 +358,7 @@
         {
           "order": 8,
           "name": "Fantasy Arena Hard Mode",
-          "description": "Prepare for Fantasy Arena's harder content by improving your class, wand and trait combinations. Hard Mode is also referenced by the publicly reported HardMode redemption code.",
+          "description": "Prepare-se para o Hard Mode melhorando classe, varinha e traits. Confira a pagina de codigos antes de contar qualquer recompensa ligada ao modo dificil.",
           "href": "/guide/fantasy-arena-hard-mode",
           "displayType": "step-by-step",
           "highlights": [
@@ -376,7 +376,7 @@
             },
             {
               "label": "4",
-              "detail": "Use the HardMode code while it remains redeemable to claim its associated in-game reward."
+              "detail": "Confira os codigos atuais no lobby antes de contar qualquer recompensa do Hard Mode."
             }
           ]
         }
@@ -395,8 +395,8 @@
           "answer": "Beginners should learn wave survival, test wand abilities, unlock stronger classes, and combine traits around one clear build plan before pushing deeper runs."
         },
         {
-          "question": "Does Fantasy Arena have active codes?",
-          "answer": "Fantasy Arena currently has codes such as 750Likes, Magma, and HardMode, which are used for Burger Points or other in-game rewards."
+          "question": "Fantasy Arena tem codigos ativos?",
+          "answer": "Os codigos mais recentes reportados incluem SignUpForAdminAbuse, King e Gullible. O status muda rapido, entao resgate no lobby e confirme a recompensa no jogo."
         },
         {
           "question": "What changed in Fantasy Arena V1.2?",
@@ -417,13 +417,13 @@
   },
   "bosses": {
     "meta": {
-      "title": "Fantasy Arena Bosses - Magma Event and Shiny Enemies",
-      "description": "Prepare for Fantasy Arena bosses, Magma Event, Magma Shard, Obsidian Shogun, and Shiny Enemies."
+      "title": "Chefes do Fantasy Arena - Evento Magma e Inimigos Shiny",
+      "description": "Prepare-se para chefes do Fantasy Arena, Evento Magma, Magma Shard, Obsidian Shogun e inimigos shiny."
     },
-    "overviewTitle": "Fantasy Arena Bosses",
-    "overviewDescription": "Prepare for Fantasy Arena bosses and special encounters including Magma Event, Magma Shard, Obsidian Shogun, and Shiny Enemies.",
-    "body": "Bosses and special encounters create major pressure spikes during Fantasy Arena wave runs. Use these guides to plan class, wand, trait, and build choices before fighting rare enemies or update bosses.",
-    "guidesTitle": "Fantasy Arena Bosses Guides",
+    "overviewTitle": "Chefes do Fantasy Arena",
+    "overviewDescription": "Prepare-se para chefes e encontros especiais, incluindo Evento Magma, Magma Shard, Obsidian Shogun e inimigos shiny.",
+    "body": "Chefes e encontros especiais criam picos de pressao durante as waves. Use estes guias para planejar classe, varinha, trait e build antes de lutar.",
+    "guidesTitle": "Guias de chefes do Fantasy Arena",
     "readMore": "Read more",
     "new": "New",
     "popular": "Popular"
@@ -466,11 +466,11 @@
   },
   "codes": {
     "meta": {
-      "title": "Codigos Fantasy Arena (Agosto 2026) - Codigos Ativos",
-      "description": "Codigos ativos de Fantasy Arena, recompensas, passos de resgate, Burger Points e notas do update Magma."
+      "title": "Codigos Fantasy Arena (Agosto 2026) - Codigos Reportados",
+      "description": "Codigos reportados de Fantasy Arena, recompensas, passos de resgate, Burger Points e notas do update Magma."
     },
     "overviewTitle": "Codigos Fantasy Arena (Agosto 2026)",
-    "overviewDescription": "Lista de codigos ativos de Fantasy Arena, verificada em 12 de agosto de 2026, com recompensas, resgate, Burger Points e notas do update Magma."
+      "overviewDescription": "Lista dos codigos mais recentes de Fantasy Arena, verificada em 17 de agosto de 2026, com recompensas reportadas, resgate, Burgers e notas do update Magma."
   },
   "guide": {
     "meta": {

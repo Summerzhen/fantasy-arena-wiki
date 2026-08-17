@@ -30,7 +30,7 @@
       "description": "Fantasy Arena is a Roblox endless-wave survival game developed by Personal Path. Master increasingly powerful enemy waves, unlock rare classes, spin for powerful wands, combine traits into stronger builds, and push deeper with friends.",
       "stats": [
         "Latest Update V1.2",
-        "Active Codes 3",
+        "Active Codes 3+",
         "New Summons 5",
         "Game Mode Endless Waves"
       ],
@@ -89,7 +89,7 @@
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "Check working Fantasy Arena codes and redeem rewards before new updates rotate them out.",
+          "description": "Check the newest Fantasy Arena codes, including SignUpForAdminAbuse, King, and Gullible, before updates rotate them out.",
           "href": "/codes"
         },
         {
@@ -186,19 +186,19 @@
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "750Likes",
-              "detail": "Redeem for Burger Points rewards",
-              "badge": "Active"
+              "label": "SignUpForAdminAbuse",
+              "detail": "Reported 100 Burger reward; verify in-game",
+              "badge": "New"
             },
             {
-              "label": "Magma",
-              "detail": "Redeem for Burger Points rewards",
-              "badge": "Active"
+              "label": "King",
+              "detail": "Reported 100 Burger reward; verify in-game",
+              "badge": "New"
             },
             {
-              "label": "HardMode",
-              "detail": "Redeem for in-game rewards",
-              "badge": "Active"
+              "label": "Gullible",
+              "detail": "Reported Burger reward; verify in-game",
+              "badge": "Check"
             }
           ]
         },
@@ -358,7 +358,7 @@
         {
           "order": 8,
           "name": "Fantasy Arena Hard Mode",
-          "description": "Prepare for Fantasy Arena's harder content by improving your class, wand and trait combinations. Hard Mode is also referenced by the publicly reported HardMode redemption code.",
+          "description": "Prepare for Fantasy Arena's harder content by improving your class, wand and trait combinations. Check the latest codes page before planning around any Hard Mode reward.",
           "href": "/guide/fantasy-arena-hard-mode",
           "displayType": "step-by-step",
           "highlights": [
@@ -376,7 +376,7 @@
             },
             {
               "label": "4",
-              "detail": "Use the HardMode code while it remains redeemable to claim its associated in-game reward."
+              "detail": "Check current code reports in the lobby before counting any Hard Mode reward."
             }
           ]
         },
@@ -422,7 +422,7 @@
         },
         {
           "question": "Does Fantasy Arena have active codes?",
-          "answer": "Fantasy Arena currently has codes such as 750Likes, Magma, and HardMode, which are used for Burger Points or other in-game rewards."
+          "answer": "The latest reported Fantasy Arena codes are SignUpForAdminAbuse, King, and Gullible. Code status and rewards can change quickly, so redeem them in the lobby and verify the result in-game."
         },
         {
           "question": "What changed in Fantasy Arena V1.2?",
@@ -500,19 +500,19 @@
   },
   "codes": {
     "meta": {
-      "title": "Fantasy Arena Codes - All Working Codes & Rewards",
-      "description": "Check all working Fantasy Arena Roblox codes, current rewards, active status, and the exact steps to redeem each code."
+      "title": "Fantasy Arena Codes - Reported Codes & Rewards",
+      "description": "Check reported Fantasy Arena Roblox codes, current rewards, status notes, and the exact steps to verify each code in-game."
     },
     "overviewTitle": "Fantasy Arena Codes (August 2026)",
-    "overviewDescription": "All working Fantasy Arena codes, last checked August 12, 2026, with active rewards, redeem steps, Burger Points, and Magma update notes."
+      "overviewDescription": "Latest Fantasy Arena codes, last checked August 17, 2026, with reported rewards, redeem steps, Burger Points, and Magma update notes."
   },
   "guide": {
     "meta": {
-      "title": "Fantasy Arena Guides - Tips, Waves & How to Play",
-      "description": "Learn how to play Fantasy Arena with beginner tips, wave survival, burgers, hard mode, and clear progression guides."
+      "title": "Fantasy Arena Beginner Guide - Waves, Burgers & Builds",
+      "description": "Learn Fantasy Arena from the first wave: choose a class and wand, spend Burgers, build traits, handle bosses, and prepare for Hard Mode."
     },
-    "overviewTitle": "Fantasy Arena Guide",
-    "overviewDescription": "Start with Fantasy Arena guides for beginners, burgers, waves, tips, hard mode, and early progression decisions."
+    "overviewTitle": "Fantasy Arena Beginner Guide",
+    "overviewDescription": "Start with the Fantasy Arena beginner route: redeem codes, choose your first class and wand, spend Burgers wisely, survive waves, and prepare for bosses and Hard Mode."
   },
   "tier": {
     "meta": {

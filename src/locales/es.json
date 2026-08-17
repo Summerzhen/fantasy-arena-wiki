@@ -186,17 +186,17 @@
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "750Likes",
+              "label": "SignUpForAdminAbuse",
               "detail": "Redeem for Burger Points rewards",
               "badge": "Active"
             },
             {
-              "label": "Magma",
+              "label": "King",
               "detail": "Redeem for Burger Points rewards",
               "badge": "Active"
             },
             {
-              "label": "HardMode",
+              "label": "Gullible",
               "detail": "Redeem for in-game rewards",
               "badge": "Active"
             }
@@ -358,7 +358,7 @@
         {
           "order": 8,
           "name": "Fantasy Arena Hard Mode",
-          "description": "Prepare for Fantasy Arena's harder content by improving your class, wand and trait combinations. Hard Mode is also referenced by the publicly reported HardMode redemption code.",
+          "description": "Prepara el contenido mas dificil de Fantasy Arena mejorando clase, varita y traits. Revisa la pagina de codigos antes de contar cualquier recompensa de Hard Mode.",
           "href": "/guide/fantasy-arena-hard-mode",
           "displayType": "step-by-step",
           "highlights": [
@@ -376,7 +376,7 @@
             },
             {
               "label": "4",
-              "detail": "Use the HardMode code while it remains redeemable to claim its associated in-game reward."
+              "detail": "Revisa los codigos actuales en el lobby antes de contar cualquier recompensa de Hard Mode."
             }
           ]
         }
@@ -395,8 +395,8 @@
           "answer": "Beginners should learn wave survival, test wand abilities, unlock stronger classes, and combine traits around one clear build plan before pushing deeper runs."
         },
         {
-          "question": "Does Fantasy Arena have active codes?",
-          "answer": "Fantasy Arena currently has codes such as 750Likes, Magma, and HardMode, which are used for Burger Points or other in-game rewards."
+          "question": "Fantasy Arena tiene codigos activos?",
+          "answer": "Los codigos mas recientes reportados incluyen SignUpForAdminAbuse, King y Gullible. El estado cambia rapido, asi que canjealos en el lobby y confirma la recompensa en el juego."
         },
         {
           "question": "What changed in Fantasy Arena V1.2?",
@@ -466,11 +466,11 @@
   },
   "codes": {
     "meta": {
-      "title": "Codigos de Fantasy Arena (Agosto 2026) - Codigos Activos",
-      "description": "Codigos activos de Fantasy Arena, recompensas, pasos para canjear, Burger Points y notas del update Magma."
+      "title": "Codigos de Fantasy Arena (Agosto 2026) - Codigos Reportados",
+      "description": "Codigos reportados de Fantasy Arena, recompensas, pasos para canjear, Burger Points y notas del update Magma."
     },
     "overviewTitle": "Codigos de Fantasy Arena (Agosto 2026)",
-    "overviewDescription": "Lista de codigos activos de Fantasy Arena, revisada el 12 de agosto de 2026, con recompensas, canje, Burger Points y notas del update Magma."
+    "overviewDescription": "Lista de los códigos más recientes de Fantasy Arena, revisada el 17 de agosto de 2026, con recompensas reportadas, canje, Burgers y notas del update Magma."
   },
   "guide": {
     "meta": {

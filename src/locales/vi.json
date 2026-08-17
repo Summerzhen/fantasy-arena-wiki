@@ -186,17 +186,17 @@
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "750Likes",
+              "label": "SignUpForAdminAbuse",
               "detail": "Redeem for Burger Points rewards",
               "badge": "Active"
             },
             {
-              "label": "Magma",
+              "label": "King",
               "detail": "Redeem for Burger Points rewards",
               "badge": "Active"
             },
             {
-              "label": "HardMode",
+              "label": "Gullible",
               "detail": "Redeem for in-game rewards",
               "badge": "Active"
             }
@@ -358,7 +358,7 @@
         {
           "order": 8,
           "name": "Fantasy Arena Hard Mode",
-          "description": "Prepare for Fantasy Arena's harder content by improving your class, wand and trait combinations. Hard Mode is also referenced by the publicly reported HardMode redemption code.",
+          "description": "Chuan bi cho noi dung kho hon cua Fantasy Arena bang cach cai thien class, wand va trait. Hay kiem tra trang ma moi nhat truoc khi tinh bat ky phan thuong Hard Mode nao.",
           "href": "/guide/fantasy-arena-hard-mode",
           "displayType": "step-by-step",
           "highlights": [
@@ -376,7 +376,7 @@
             },
             {
               "label": "4",
-              "detail": "Use the HardMode code while it remains redeemable to claim its associated in-game reward."
+              "detail": "Kiem tra ma hien tai trong lobby truoc khi tinh bat ky phan thuong Hard Mode nao."
             }
           ]
         }
@@ -395,8 +395,8 @@
           "answer": "Beginners should learn wave survival, test wand abilities, unlock stronger classes, and combine traits around one clear build plan before pushing deeper runs."
         },
         {
-          "question": "Does Fantasy Arena have active codes?",
-          "answer": "Fantasy Arena currently has codes such as 750Likes, Magma, and HardMode, which are used for Burger Points or other in-game rewards."
+          "question": "Fantasy Arena co ma moi khong?",
+          "answer": "Cac ma moi duoc bao cao gom SignUpForAdminAbuse, King va Gullible. Trang thai co the doi nhanh, nen hay nhap trong lobby va xac nhan phan thuong trong game."
         },
         {
           "question": "What changed in Fantasy Arena V1.2?",
@@ -466,11 +466,11 @@
   },
   "codes": {
     "meta": {
-      "title": "Ma Fantasy Arena (Thang 8 2026) - Ma dang hoat dong",
-      "description": "Ma Fantasy Arena dang hoat dong, phan thuong, cach nhap ma, Burger Points va ghi chu update Magma."
+      "title": "Ma Fantasy Arena (Thang 8 2026) - Ma duoc bao cao",
+      "description": "Ma Fantasy Arena duoc bao cao, phan thuong, cach nhap ma, Burger Points va ghi chu update Magma."
     },
     "overviewTitle": "Ma Fantasy Arena (Thang 8 2026)",
-    "overviewDescription": "Danh sach ma Fantasy Arena dang hoat dong, kiem tra ngay 12 thang 8 2026, voi phan thuong, cach nhap ma va ghi chu update Magma."
+    "overviewDescription": "Danh sach ma Fantasy Arena moi duoc bao cao, kiem tra ngay 17 thang 8 2026, voi phan thuong, cach nhap ma va ghi chu update Magma."
   },
   "guide": {
     "meta": {
