@@ -33,6 +33,30 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
         <div className="mt-4 flex flex-wrap items-center justify-center gap-1.5">{home.hero.stats.map((stat) => <span key={stat} className="inline-flex items-center gap-1 rounded-full bg-muted px-2.5 py-0.5 text-xs font-medium text-muted-foreground">{stat}</span>)}</div>
       </section>
 
+      {locale === "en" && (
+        <section className="rounded-3xl border border-cyan-500/30 bg-cyan-500/5 p-6 sm:p-8">
+          <div className="flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
+            <div>
+              <p className="text-sm font-semibold uppercase tracking-[0.18em] text-cyan-600 dark:text-cyan-400">Latest Update · V1.4</p>
+              <h2 className="mt-2 text-3xl font-bold tracking-tight text-foreground">Fantasy Arena Frost Update</h2>
+              <p className="mt-2 max-w-2xl leading-7 text-muted-foreground">Explore the new Frost event, limited Mythic class and Scythe, wand stacking, Mushroom map, and map quest confirmed on the official Roblox game listing.</p>
+            </div>
+            <div className="flex flex-wrap gap-2 lg:max-w-md lg:justify-end">
+              {[
+                ["Frost Event", "/guide/fantasy-arena-frost-event"],
+                ["Frost Crate", "/guide/fantasy-arena-frost-crate"],
+                ["Scythe", "/guide/fantasy-arena-scythe"],
+                ["Wand Stacking", "/wands/fantasy-arena-wand-stacking"],
+              ].map(([label, href]) => (
+                <Link key={href} href={localizeHref(href, locale)} className="rounded-full border border-cyan-500/30 bg-background px-3 py-1.5 text-sm font-medium text-foreground transition hover:border-cyan-500 hover:text-cyan-600 dark:hover:text-cyan-400">
+                  {label}
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* 最近更新 + 新手教程 两栏布局 */}
       <section className="grid gap-8 lg:grid-cols-[0.85fr_1.15fr]">
         {/* 左侧：动态更新 — 最近 8 篇 MDX 文章，支持滚动 */}

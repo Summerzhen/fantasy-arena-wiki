@@ -29,9 +29,9 @@
       "title": "Fantasy Arena Wiki",
       "description": "Fantasy Arena is a Roblox endless-wave survival game developed by Personal Path. Master increasingly powerful enemy waves, unlock rare classes, spin for powerful wands, combine traits into stronger builds, and push deeper with friends.",
       "stats": [
-        "Latest Update V1.2",
-        "Active Codes 3+",
-        "New Summons 5",
+        "Latest Update V1.4 Frost",
+        "Active Codes 6+",
+        "Frost Event Guides",
         "Game Mode Endless Waves"
       ],
       "primaryCta": "Start Beginner Guide",
@@ -140,7 +140,7 @@
       "title": "What is Fantasy Arena?",
       "paragraphs": [
         "Fantasy Arena is a Roblox endless-wave survival RPG by Personal Path. Players enter an arena, fight increasingly powerful enemy waves, and improve their runs through classes, wands, traits, summons, and build choices.",
-        "The game focuses on replayable progression and build experimentation. V1.2 added the Mushroom Monarch Boss, Shiny Enemies, the Mythical Greed Class, and five new class summons, giving players more reasons to optimize each setup."
+        "The game focuses on replayable progression and build experimentation. V1.4 added a limited-time Frost event, Mythic class and scythe, wand stacking, a Mushroom map, and a new map quest."
       ],
       "stats": [
         {
@@ -161,11 +161,11 @@
         },
         {
           "label": "Latest Update",
-          "value": "V1.2"
+          "value": "V1.4 Frost"
         },
         {
           "label": "Active Codes",
-          "value": "3"
+          "value": "6+"
         },
         {
           "label": "New Summons",

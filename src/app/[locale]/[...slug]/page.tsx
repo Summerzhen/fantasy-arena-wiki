@@ -21,17 +21,19 @@ function languageAlternates(pathname: string) {
 }
 
 const workingCodes = [
-  { code: "750Likes", reward: "Burger Points reward", notes: "Like milestone code" },
-  { code: "Magma", reward: "Burger Points reward", notes: "Magma update code" },
-  { code: "HardMode", reward: "In-game reward", notes: "Hard mode related reward" },
-  { code: "gullible", reward: "100 Burgers", notes: "Good early upgrade boost" },
+  { code: "King", reward: "100 Burgers", notes: "Reported active; verify in game" },
+  { code: "SignUpForAdminAbuse", reward: "100 Burgers", notes: "Reported active; verify in game" },
+  { code: "Gullible", reward: "100 Burgers", notes: "Reported active; verify capitalization" },
+  { code: "HardMode", reward: "100 Burgers", notes: "Reported active by recent lists; verify in game" },
+  { code: "Magma", reward: "100 Burgers", notes: "Reported active by recent lists; verify in game" },
+  { code: "750Likes", reward: "100 Burgers", notes: "Reported active by recent lists; verify in game" },
 ];
 
 const codesOverviewLabels = {
-  en: { checked: "Last checked: August 12, 2026", badge: "Working Codes", code: "Code", reward: "Reward", status: "Status", notes: "Notes", active: "Active", redeem: "How to redeem codes", tier: "Tier list", classes: "Classes" },
-  "pt-br": { checked: "Ultima verificacao: 12 de agosto de 2026", badge: "Codigos ativos", code: "Codigo", reward: "Recompensa", status: "Status", notes: "Observacao", active: "Ativo", redeem: "Como resgatar codigos", tier: "Tier list", classes: "Classes" },
-  es: { checked: "Ultima revision: 12 de agosto de 2026", badge: "Codigos activos", code: "Codigo", reward: "Recompensa", status: "Estado", notes: "Notas", active: "Activo", redeem: "Como canjear codigos", tier: "Tier list", classes: "Clases" },
-  vi: { checked: "Lan kiem tra gan nhat: 12 thang 8 2026", badge: "Ma dang hoat dong", code: "Ma", reward: "Phan thuong", status: "Trang thai", notes: "Ghi chu", active: "Dang hoat dong", redeem: "Cach nhap ma", tier: "Tier list", classes: "Classes" },
+  en: { checked: "Last checked: August 24, 2026", badge: "Working Codes", code: "Code", reward: "Reward", status: "Status", notes: "Notes", active: "Reported active", redeem: "How to redeem codes", tier: "Tier list", classes: "Classes" },
+  "pt-br": { checked: "Ultima verificacao: 24 de agosto de 2026", badge: "Codigos ativos", code: "Codigo", reward: "Recompensa", status: "Status", notes: "Observacao", active: "Reportado ativo", redeem: "Como resgatar codigos", tier: "Tier list", classes: "Classes" },
+  es: { checked: "Ultima revision: 24 de agosto de 2026", badge: "Codigos activos", code: "Codigo", reward: "Recompensa", status: "Estado", notes: "Notas", active: "Reportado activo", redeem: "Como canjear codigos", tier: "Tier list", classes: "Clases" },
+  vi: { checked: "Lan kiem tra gan nhat: 24 thang 8 2026", badge: "Ma dang hoat dong", code: "Ma", reward: "Phan thuong", status: "Trang thai", notes: "Ghi chu", active: "Duoc bao cao dang hoat dong", redeem: "Cach nhap ma", tier: "Tier list", classes: "Classes" },
 } satisfies Record<Locale, Record<string, string>>;
 
 export async function generateStaticParams() {
