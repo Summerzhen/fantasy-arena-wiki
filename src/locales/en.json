@@ -30,7 +30,7 @@
       "description": "Fantasy Arena is a Roblox endless-wave survival game developed by Personal Path. Master increasingly powerful enemy waves, unlock rare classes, spin for powerful wands, combine traits into stronger builds, and push deeper with friends.",
       "stats": [
         "Latest Update V1.4 Frost",
-        "Active Codes 6+",
+        "Active Codes 3",
         "Frost Event Guides",
         "Game Mode Endless Waves"
       ],
@@ -89,7 +89,7 @@
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "Check the newest Fantasy Arena codes, including SignUpForAdminAbuse, King, and Gullible, before updates rotate them out.",
+          "description": "Check the newest Fantasy Arena Frost Crate codes, including frost crate, update!, and new maps, before updates rotate them out.",
           "href": "/codes"
         },
         {
@@ -165,7 +165,7 @@
         },
         {
           "label": "Active Codes",
-          "value": "6+"
+          "value": "3"
         },
         {
           "label": "New Summons",
@@ -186,19 +186,19 @@
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "SignUpForAdminAbuse",
-              "detail": "Reported 100 Burger reward; verify in-game",
+              "label": "frost crate",
+              "detail": "Reported 100 Burger reward for V1.4 Frost; verify in-game",
               "badge": "New"
             },
             {
-              "label": "King",
-              "detail": "Reported 100 Burger reward; verify in-game",
+              "label": "update!",
+              "detail": "Reported 100 Burger reward for the Frost update; verify in-game",
               "badge": "New"
             },
             {
-              "label": "Gullible",
-              "detail": "Reported Burger reward; verify in-game",
-              "badge": "Check"
+              "label": "new maps",
+              "detail": "Reported 100 Burger reward for the new map update; verify in-game",
+              "badge": "New"
             }
           ]
         },
@@ -422,7 +422,7 @@
         },
         {
           "question": "Does Fantasy Arena have active codes?",
-          "answer": "The latest reported Fantasy Arena codes are SignUpForAdminAbuse, King, and Gullible. Code status and rewards can change quickly, so redeem them in the lobby and verify the result in-game."
+          "answer": "The latest reported Fantasy Arena codes are frost crate, update!, and new maps. Code status and rewards can change quickly, so redeem them in the lobby and verify the result in-game."
         },
         {
           "question": "What changed in Fantasy Arena V1.2?",
@@ -500,11 +500,11 @@
   },
   "codes": {
     "meta": {
-      "title": "Fantasy Arena Codes - Reported Codes & Rewards",
-      "description": "Check reported Fantasy Arena Roblox codes, current rewards, status notes, and the exact steps to verify each code in-game."
+      "title": "Fantasy Arena Codes (August 2026) - Frost Crate Codes",
+      "description": "Check reported Fantasy Arena Frost Crate codes, current rewards, status notes, and the exact steps to verify each code in-game."
     },
     "overviewTitle": "Fantasy Arena Codes (August 2026)",
-      "overviewDescription": "Latest Fantasy Arena codes, last checked August 17, 2026, with reported rewards, redeem steps, Burger Points, and Magma update notes."
+      "overviewDescription": "Latest Fantasy Arena codes, last checked August 25, 2026, with Frost Crate rewards, redeem steps, Burgers, and V1.4 Frost update notes."
   },
   "guide": {
     "meta": {

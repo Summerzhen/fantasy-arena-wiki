@@ -186,18 +186,18 @@
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "SignUpForAdminAbuse",
-              "detail": "Redeem for Burger Points rewards",
+              "label": "frost crate",
+              "detail": "Redeem for a reported 100 Burgers reward",
               "badge": "Active"
             },
             {
-              "label": "King",
-              "detail": "Redeem for Burger Points rewards",
+              "label": "update!",
+              "detail": "Redeem for a reported 100 Burgers reward",
               "badge": "Active"
             },
             {
-              "label": "Gullible",
-              "detail": "Redeem for in-game rewards",
+              "label": "new maps",
+              "detail": "Redeem for a reported 100 Burgers reward",
               "badge": "Active"
             }
           ]
@@ -396,7 +396,7 @@
         },
         {
           "question": "Fantasy Arena co ma moi khong?",
-          "answer": "Cac ma moi duoc bao cao gom SignUpForAdminAbuse, King va Gullible. Trang thai co the doi nhanh, nen hay nhap trong lobby va xac nhan phan thuong trong game."
+          "answer": "Cac ma moi duoc bao cao gom frost crate, update! va new maps. Trang thai co the doi nhanh, nen hay nhap trong lobby va xac nhan phan thuong trong game."
         },
         {
           "question": "What changed in Fantasy Arena V1.2?",
@@ -466,11 +466,11 @@
   },
   "codes": {
     "meta": {
-      "title": "Ma Fantasy Arena (Thang 8 2026) - Ma duoc bao cao",
-      "description": "Ma Fantasy Arena duoc bao cao, phan thuong, cach nhap ma, Burger Points va ghi chu update Magma."
+      "title": "Ma Fantasy Arena (Thang 8 2026) - Frost Crate",
+      "description": "Ma Fantasy Arena duoc bao cao cho Frost Crate, phan thuong, cach nhap ma, Burgers va ghi chu update V1.4 Frost."
     },
     "overviewTitle": "Ma Fantasy Arena (Thang 8 2026)",
-    "overviewDescription": "Danh sach ma Fantasy Arena moi duoc bao cao, kiem tra ngay 17 thang 8 2026, voi phan thuong, cach nhap ma va ghi chu update Magma."
+    "overviewDescription": "Danh sach ma Fantasy Arena moi duoc bao cao, kiem tra ngay 25 thang 8 2026, voi phan thuong, cach nhap ma va ghi chu update V1.4 Frost."
   },
   "guide": {
     "meta": {

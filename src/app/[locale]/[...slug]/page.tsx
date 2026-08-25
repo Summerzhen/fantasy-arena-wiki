@@ -11,9 +11,10 @@ import { Breadcrumbs, JsonLd, WikiSidebar, localizeHref } from "@/components/sit
 import { MobileTOC, SidebarTOC } from "@/components/table-of-contents";
 import { CONTENT_TYPES } from "@/config/navigation";
 import { routing, type Locale } from "@/i18n/routing";
+import { getCanonicalSiteUrl } from "@/lib/site-url";
 import en from "@/locales/en.json";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://fantasyarena.wiki";
+const siteUrl = getCanonicalSiteUrl();
 type Messages = typeof en;
 
 function languageAlternates(pathname: string) {
@@ -21,19 +22,16 @@ function languageAlternates(pathname: string) {
 }
 
 const workingCodes = [
-  { code: "King", reward: "100 Burgers", notes: "Reported active; verify in game" },
-  { code: "SignUpForAdminAbuse", reward: "100 Burgers", notes: "Reported active; verify in game" },
-  { code: "Gullible", reward: "100 Burgers", notes: "Reported active; verify capitalization" },
-  { code: "HardMode", reward: "100 Burgers", notes: "Reported active by recent lists; verify in game" },
-  { code: "Magma", reward: "100 Burgers", notes: "Reported active by recent lists; verify in game" },
-  { code: "750Likes", reward: "100 Burgers", notes: "Reported active by recent lists; verify in game" },
+  { code: "frost crate", reward: "100 Burgers", notes: "Reported for V1.4 Frost; verify in game" },
+  { code: "update!", reward: "100 Burgers", notes: "Reported for V1.4 Frost; verify in game" },
+  { code: "new maps", reward: "100 Burgers", notes: "Reported for V1.4 maps; verify in game" },
 ];
 
 const codesOverviewLabels = {
-  en: { checked: "Last checked: August 24, 2026", badge: "Working Codes", code: "Code", reward: "Reward", status: "Status", notes: "Notes", active: "Reported active", redeem: "How to redeem codes", tier: "Tier list", classes: "Classes" },
-  "pt-br": { checked: "Ultima verificacao: 24 de agosto de 2026", badge: "Codigos ativos", code: "Codigo", reward: "Recompensa", status: "Status", notes: "Observacao", active: "Reportado ativo", redeem: "Como resgatar codigos", tier: "Tier list", classes: "Classes" },
-  es: { checked: "Ultima revision: 24 de agosto de 2026", badge: "Codigos activos", code: "Codigo", reward: "Recompensa", status: "Estado", notes: "Notas", active: "Reportado activo", redeem: "Como canjear codigos", tier: "Tier list", classes: "Clases" },
-  vi: { checked: "Lan kiem tra gan nhat: 24 thang 8 2026", badge: "Ma dang hoat dong", code: "Ma", reward: "Phan thuong", status: "Trang thai", notes: "Ghi chu", active: "Duoc bao cao dang hoat dong", redeem: "Cach nhap ma", tier: "Tier list", classes: "Classes" },
+  en: { checked: "Last checked: August 25, 2026", badge: "Working Codes", code: "Code", reward: "Reward", status: "Status", notes: "Notes", active: "Reported active", redeem: "How to redeem codes", tier: "Tier list", classes: "Classes" },
+  "pt-br": { checked: "Ultima verificacao: 25 de agosto de 2026", badge: "Codigos ativos", code: "Codigo", reward: "Recompensa", status: "Status", notes: "Observacao", active: "Reportado ativo", redeem: "Como resgatar codigos", tier: "Tier list", classes: "Classes" },
+  es: { checked: "Ultima revision: 25 de agosto de 2026", badge: "Codigos activos", code: "Codigo", reward: "Recompensa", status: "Estado", notes: "Notas", active: "Reportado activo", redeem: "Como canjear codigos", tier: "Tier list", classes: "Clases" },
+  vi: { checked: "Lan kiem tra gan nhat: 25 thang 8 2026", badge: "Ma dang hoat dong", code: "Ma", reward: "Phan thuong", status: "Trang thai", notes: "Ghi chu", active: "Duoc bao cao dang hoat dong", redeem: "Cach nhap ma", tier: "Tier list", classes: "Classes" },
 } satisfies Record<Locale, Record<string, string>>;
 
 export async function generateStaticParams() {

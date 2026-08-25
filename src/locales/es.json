@@ -186,18 +186,18 @@
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "SignUpForAdminAbuse",
-              "detail": "Redeem for Burger Points rewards",
+              "label": "frost crate",
+              "detail": "Redeem for a reported 100 Burgers reward",
               "badge": "Active"
             },
             {
-              "label": "King",
-              "detail": "Redeem for Burger Points rewards",
+              "label": "update!",
+              "detail": "Redeem for a reported 100 Burgers reward",
               "badge": "Active"
             },
             {
-              "label": "Gullible",
-              "detail": "Redeem for in-game rewards",
+              "label": "new maps",
+              "detail": "Redeem for a reported 100 Burgers reward",
               "badge": "Active"
             }
           ]
@@ -396,7 +396,7 @@
         },
         {
           "question": "Fantasy Arena tiene codigos activos?",
-          "answer": "Los codigos mas recientes reportados incluyen SignUpForAdminAbuse, King y Gullible. El estado cambia rapido, asi que canjealos en el lobby y confirma la recompensa en el juego."
+          "answer": "Los codigos mas recientes reportados incluyen frost crate, update! y new maps. El estado cambia rapido, asi que canjealos en el lobby y confirma la recompensa en el juego."
         },
         {
           "question": "What changed in Fantasy Arena V1.2?",
@@ -466,11 +466,11 @@
   },
   "codes": {
     "meta": {
-      "title": "Codigos de Fantasy Arena (Agosto 2026) - Codigos Reportados",
-      "description": "Codigos reportados de Fantasy Arena, recompensas, pasos para canjear, Burger Points y notas del update Magma."
+      "title": "Codigos de Fantasy Arena (Agosto 2026) - Frost Crate",
+      "description": "Codigos reportados de Fantasy Arena para Frost Crate, recompensas, pasos para canjear, Burgers y notas del update V1.4 Frost."
     },
     "overviewTitle": "Codigos de Fantasy Arena (Agosto 2026)",
-    "overviewDescription": "Lista de los códigos más recientes de Fantasy Arena, revisada el 17 de agosto de 2026, con recompensas reportadas, canje, Burgers y notas del update Magma."
+    "overviewDescription": "Lista de los codigos mas recientes de Fantasy Arena, revisada el 25 de agosto de 2026, con recompensas reportadas, canje, Burgers y notas del update V1.4 Frost."
   },
   "guide": {
     "meta": {

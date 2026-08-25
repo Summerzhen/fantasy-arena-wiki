@@ -30,7 +30,7 @@
       "description": "Fantasy Arena Wiki e um hub de guias Roblox feito por fas para codigos, classes, varinhas, tracos, builds, chefes, invocacoes e progressao em ondas infinitas.",
       "stats": [
         "Latest Update V1.2",
-        "Active Codes 3+",
+        "Active Codes 3",
         "New Summons 5",
         "Game Mode Endless Waves"
       ],
@@ -89,7 +89,7 @@
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "Confira os códigos mais recentes de Fantasy Arena, incluindo SignUpForAdminAbuse, King e Gullible, antes dos próximos updates.",
+          "description": "Confira os códigos Frost Crate mais recentes de Fantasy Arena, incluindo frost crate, update! e new maps.",
           "href": "/codes"
         },
         {
@@ -186,19 +186,19 @@
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "SignUpForAdminAbuse",
-              "detail": "Recompensa reportada de 100 Burgers; confirme no jogo",
+              "label": "frost crate",
+              "detail": "Recompensa reportada de 100 Burgers no V1.4 Frost; confirme no jogo",
               "badge": "Novo"
             },
             {
-              "label": "King",
-              "detail": "Recompensa reportada de 100 Burgers; confirme no jogo",
+              "label": "update!",
+              "detail": "Recompensa reportada de 100 Burgers no update Frost; confirme no jogo",
               "badge": "Novo"
             },
             {
-              "label": "Gullible",
-              "detail": "Recompensa em Burgers reportada; confirme no jogo",
-              "badge": "Confira"
+              "label": "new maps",
+              "detail": "Recompensa reportada de 100 Burgers ligada aos novos mapas; confirme no jogo",
+              "badge": "Novo"
             }
           ]
         },
@@ -396,7 +396,7 @@
         },
         {
           "question": "Fantasy Arena tem codigos ativos?",
-          "answer": "Os codigos mais recentes reportados incluem SignUpForAdminAbuse, King e Gullible. O status muda rapido, entao resgate no lobby e confirme a recompensa no jogo."
+          "answer": "Os codigos mais recentes reportados incluem frost crate, update! e new maps. O status muda rapido, entao resgate no lobby e confirme a recompensa no jogo."
         },
         {
           "question": "What changed in Fantasy Arena V1.2?",
@@ -466,11 +466,11 @@
   },
   "codes": {
     "meta": {
-      "title": "Codigos Fantasy Arena (Agosto 2026) - Codigos Reportados",
-      "description": "Codigos reportados de Fantasy Arena, recompensas, passos de resgate, Burger Points e notas do update Magma."
+      "title": "Codigos Fantasy Arena (Agosto 2026) - Frost Crate",
+      "description": "Codigos reportados de Fantasy Arena para Frost Crate, recompensas, passos de resgate, Burgers e notas do update V1.4 Frost."
     },
     "overviewTitle": "Codigos Fantasy Arena (Agosto 2026)",
-      "overviewDescription": "Lista dos codigos mais recentes de Fantasy Arena, verificada em 17 de agosto de 2026, com recompensas reportadas, resgate, Burgers e notas do update Magma."
+      "overviewDescription": "Lista dos codigos mais recentes de Fantasy Arena, verificada em 25 de agosto de 2026, com recompensas reportadas, resgate, Burgers e notas do update V1.4 Frost."
   },
   "guide": {
     "meta": {

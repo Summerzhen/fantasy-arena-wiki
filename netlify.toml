@@ -10,3 +10,21 @@
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
+
+[[redirects]]
+  from = "http://fantasyarena.wiki/*"
+  to = "https://fantasyarena.wiki/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.fantasyarena.wiki/*"
+  to = "https://fantasyarena.wiki/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.fantasyarena.wiki/*"
+  to = "https://fantasyarena.wiki/:splat"
+  status = 301
+  force = true

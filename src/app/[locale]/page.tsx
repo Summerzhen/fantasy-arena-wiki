@@ -4,10 +4,11 @@ import { JsonLd, WikiSidebar } from "@/components/site";
 import { AdUnitBox } from "@/components/ad-units";
 import { getAllContent, getDynamicNavigation, type ContentItem, CONTENT_TYPES } from "@/lib/content";
 import { routing, type Locale } from "@/i18n/routing";
+import { getCanonicalSiteUrl } from "@/lib/site-url";
 import en from "@/locales/en.json";
 import HomePageClient from "./HomePageClient";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://fantasyarena.wiki";
+const siteUrl = getCanonicalSiteUrl();
 
 type Messages = typeof en;
 

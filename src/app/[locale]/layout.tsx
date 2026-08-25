@@ -9,10 +9,11 @@ import { Analytics } from "@/components/analytics";
 import { ResponsiveStickyBannerAd } from "@/components/ad-units";
 import { JsonLd, SiteFooter, SiteHeader } from "@/components/site";
 import { routing } from "@/i18n/routing";
+import { getCanonicalSiteUrl } from "@/lib/site-url";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://fantasyarena.wiki";
+const siteUrl = getCanonicalSiteUrl();
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
