@@ -96,12 +96,15 @@ const hubNextSteps: Record<string, { title: string; answer: string; links: Array
     ],
   },
   tier: {
-    title: "Start with the class tier list",
-    answer: "The class tier list is the strongest validated long-tail page in this section. Use it first, then compare wands and complete builds instead of treating a tier ranking as a standalone answer.",
+    title: "Fantasy Arena Tier Lists",
+    answer: "Use this hub to split tier-list searches by intent: class rankings, wand rankings, trait rankings, best-class choices, best-wand choices, and V1.4 Frost meta checks.",
     links: [
-      { href: "/tier/fantasy-arena-class-tier-list", label: "Fantasy Arena class tier list" },
-      { href: "/classes", label: "Browse classes" },
-      { href: "/wands", label: "Compare wands" },
+      { href: "/tier/fantasy-arena-class-tier-list", label: "Class Tier List" },
+      { href: "/tier/fantasy-arena-wand-tier-list", label: "Wand Tier List" },
+      { href: "/tier/fantasy-arena-trait-tier-list", label: "Trait Tier List" },
+      { href: "/tier/fantasy-arena-best-class", label: "Best Class" },
+      { href: "/tier/fantasy-arena-best-wand", label: "Best Wand" },
+      { href: "/guide/fantasy-arena-frost-event", label: "V1.4 Frost Event" },
     ],
   },
   wands: {
