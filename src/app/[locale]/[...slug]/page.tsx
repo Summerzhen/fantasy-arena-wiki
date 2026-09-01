@@ -28,7 +28,7 @@ const workingCodes = [
 ];
 
 const codesOverviewLabels = {
-  en: { checked: "Last checked: August 25, 2026", badge: "Working Codes", code: "Code", reward: "Reward", status: "Status", notes: "Notes", active: "Reported active", redeem: "How to redeem codes", tier: "Tier list", classes: "Classes" },
+  en: { checked: "Last checked: September 1, 2026", badge: "Reported Codes", code: "Code", reward: "Reward", status: "Status", notes: "Notes", active: "Verify in game", redeem: "How to redeem codes", tier: "Tier list", classes: "Classes" },
   "pt-br": { checked: "Ultima verificacao: 25 de agosto de 2026", badge: "Codigos ativos", code: "Codigo", reward: "Recompensa", status: "Status", notes: "Observacao", active: "Reportado ativo", redeem: "Como resgatar codigos", tier: "Tier list", classes: "Classes" },
   es: { checked: "Ultima revision: 25 de agosto de 2026", badge: "Codigos activos", code: "Codigo", reward: "Recompensa", status: "Estado", notes: "Notas", active: "Reportado activo", redeem: "Como canjear codigos", tier: "Tier list", classes: "Clases" },
   vi: { checked: "Lan kiem tra gan nhat: 25 thang 8 2026", badge: "Ma dang hoat dong", code: "Ma", reward: "Phan thuong", status: "Trang thai", notes: "Ghi chu", active: "Duoc bao cao dang hoat dong", redeem: "Cach nhap ma", tier: "Tier list", classes: "Classes" },
@@ -88,16 +88,17 @@ function CodesOverview({ locale }: { locale: Locale }) {
 const hubNextSteps: Record<string, { title: string; answer: string; links: Array<{ href: string; label: string }> }> = {
   classes: {
     title: "Which Fantasy Arena class is best?",
-    answer: "Mage-style setups are the safest starting recommendation in the current class tier list, but the best choice still depends on your wand, traits, and wave goal.",
+    answer: "Mage-style setups are the safest starting recommendation in the current class tier list. Greed is the resource-scaling path to review next, but the best choice still depends on your wand, traits, and wave goal.",
     links: [
       { href: "/tier/fantasy-arena-class-tier-list", label: "Compare the class tier list" },
+      { href: "/classes/fantasy-arena-greed-class", label: "Review Greed class" },
       { href: "/wands", label: "Match a wand" },
       { href: "/builds", label: "Finish the build" },
     ],
   },
   tier: {
     title: "Fantasy Arena Tier Lists",
-    answer: "Use this hub to split tier-list searches by intent: class rankings, wand rankings, trait rankings, best-class choices, best-wand choices, and V1.4 Frost meta checks.",
+    answer: "Use this hub for broad Fantasy Arena tier list searches. Open the class tier list for class-only rankings, then use the wand, trait, best-class, and best-wand pages when the query is narrower.",
     links: [
       { href: "/tier/fantasy-arena-class-tier-list", label: "Class Tier List" },
       { href: "/tier/fantasy-arena-wand-tier-list", label: "Wand Tier List" },
