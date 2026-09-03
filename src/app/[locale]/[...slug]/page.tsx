@@ -127,12 +127,14 @@ const hubNextSteps: Record<string, { title: string; answer: string; links: Array
     ],
   },
   guide: {
-    title: "Fantasy Arena tips, waves, and how to play",
-    answer: "Use this section for progression and wave guidance. Current redemption codes live on the dedicated Codes page so guide and reward searches have one clear destination each.",
+    title: "Start the Fantasy Arena beginner path",
+    answer: "Begin with Frost Event basics, choose a first class, learn wand stacking, pick a beginner build, then prepare for bosses once regular waves feel stable.",
     links: [
-      { href: "/guide/fantasy-arena-tips", label: "Beginner tips" },
-      { href: "/guide/fantasy-arena-waves", label: "Wave guide" },
-      { href: "/codes", label: "Working codes" },
+      { href: "/guide/fantasy-arena-frost-event", label: "Frost Event basics" },
+      { href: "/classes", label: "Choose first class" },
+      { href: "/wands/fantasy-arena-wand-stacking", label: "Wand stacking basics" },
+      { href: "/builds", label: "Beginner build" },
+      { href: "/bosses", label: "Boss preparation" },
     ],
   },
 };
