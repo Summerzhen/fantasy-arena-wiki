@@ -98,13 +98,13 @@ const hubNextSteps: Record<string, { title: string; answer: string; links: Array
   },
   tier: {
     title: "Fantasy Arena Tier Lists",
-    answer: "Use this hub for broad Fantasy Arena tier list searches. Open the class tier list for class-only rankings, then use the wand, trait, best-class, and best-wand pages when the query is narrower.",
+    answer: "Use this hub for broad Fantasy Arena tier list searches. Open the class tier list for class-only rankings, then use the best-wand and best-class pages when the query is narrower.",
     links: [
       { href: "/tier/fantasy-arena-class-tier-list", label: "Class Tier List" },
+      { href: "/tier/fantasy-arena-best-wand", label: "Best Wand" },
+      { href: "/tier/fantasy-arena-best-class", label: "Best Class" },
       { href: "/tier/fantasy-arena-wand-tier-list", label: "Wand Tier List" },
       { href: "/tier/fantasy-arena-trait-tier-list", label: "Trait Tier List" },
-      { href: "/tier/fantasy-arena-best-class", label: "Best Class" },
-      { href: "/tier/fantasy-arena-best-wand", label: "Best Wand" },
       { href: "/guide/fantasy-arena-frost-event", label: "V1.4 Frost Event" },
     ],
   },
